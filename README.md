@@ -61,7 +61,7 @@ Caso tenha dúvidas ou precise de ajuda, entre em contato com o [Epaminondas Lag
 - [MARIANNE EMANUELY DE SOUSA PEREIRA](https://github.com/Epaminondaslage/Trabalhos-Alunos-ELE1B/blob/main/alerta.md)
 - [MATHEUS HENRIQUE DA SILVA RAMOS](https://github.com/Epaminondaslage/Trabalhos-Alunos-ELE1B/blob/main/alerta.md)
 - [MATHEUS HENRIQUE SANTOS MORAIS PINTO](https://github.com/Epaminondaslage/Trabalhos-Alunos-ELE1B/blob/main/alerta.md)
-- [NICOLAS SPEZIA TELLES](https://github.com/Epaminondaslage/Trabalhos-Alunos-ELE1B/blob/main/alerta.md)
+- [NICOLAS SPEZIA TELLES](https://github.com/Nickbzzz/)
 - [JEFFERSON GOMES NOVAIS SIMÕES](https://github.com/Epaminondaslage/Trabalhos-Alunos-ELE1B/blob/main/alerta.md)
 - [PEDRO ARTHUR GRACIANO SILVA](https://github.com/Epaminondaslage/Trabalhos-Alunos-ELE1B/blob/main/alerta.md)
 - [PEDRO GOMES ALBUQUERQUE](https://github.com/PedroGomes-Albuquerque)
