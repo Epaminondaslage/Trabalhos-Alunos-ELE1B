@@ -15,7 +15,7 @@ Este repositório contém os projetos e atividades desenvolvidos pelos alunos da
 ## Como Navegar
 
 - Utilize o menu ou a barra de pesquisa para encontrar o conteúdo específico que você procura.
-- Cada projeto ou atividade está organizado em pastas separadas por nome dos alunos
+- Cada projeto ou atividade está organizado em repositórios dos próprios alunos com o link abaixo.
 
 ## Contribuições
 
