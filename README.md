@@ -66,7 +66,7 @@ Caso tenha dúvidas ou precise de ajuda, entre em contato com o [Epaminondas Lag
 - [PEDRO ARTHUR GRACIANO SILVA](https://github.com/Epaminondaslage/Trabalhos-Alunos-ELE1B/blob/main/alerta.md)
 - [PEDRO GOMES ALBUQUERQUE](https://github.com/PedroGomes-Albuquerque)
 - [PIETRO OLAVO DE SOUZA SOBRINHO](https://github.com/Pietropsp)
-- [RIAN SERGIO DO NASCIMENTO](https://github.com/Epaminondaslage/Trabalhos-Alunos-ELE1B/blob/main/alerta.md)
+- [RIAN SERGIO DO NASCIMENTO](https://github.com/RianSergio/Projeto-de-LIA/)
 - [RUAN PABLO RODRIGUES CARDOSO](https://github.com/ruanpbl/)
 - [SOFIA SEELIG PINHEIRO](https://github.com/Epaminondaslage/Trabalhos-Alunos-ELE1B/blob/main/alerta.md)
 - [TIAGO FERNANDES GUABIRABA](https://github.com/TiagoFernandes08/)
