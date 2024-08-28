@@ -71,4 +71,4 @@ Caso tenha dúvidas ou precise de ajuda, entre em contato com o [Epaminondas Lag
 - [SOFIA SEELIG PINHEIRO](https://github.com/Epaminondaslage/Trabalhos-Alunos-ELE1B/blob/main/alerta.md)
 - [TIAGO FERNANDES GUABIRABA](https://github.com/TiagoFernandes08/)
 - [VITOR DA SILVA FARIAS](https://github.com/Vitindagm/)
-- [YAN VIEIRA RIBEIRO SILVA](https://github.com/Epaminondaslage/Trabalhos-Alunos-ELE1B/blob/main/alerta.md)
+- [YAN VIEIRA RIBEIRO SILVA](https://github.com/yan1415/Yan)
