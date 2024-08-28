@@ -46,7 +46,7 @@ Caso tenha dúvidas ou precise de ajuda, entre em contato com o [Epaminondas Lag
 - [GUSTAVO VIEIRA DE CARVALHO](https://github.com/GustavoVCarvalho/)
 - [ISAAC ANTONY MACEDO TORRES](https://github.com/Epaminondaslage/Trabalhos-Alunos-ELE1B/blob/main/alerta.md)
 - [JHON HEBERTE RIBEIRO DA SILVA](https://github.com/Epaminondaslage/Trabalhos-Alunos-ELE1B/blob/main/alerta.md)
-- [JOAQUIM LUCAS SAMPAIO AMARAL](https://github.com/LuizFelipeBMartins/)
+- [JOAQUIM LUCAS SAMPAIO AMARAL](https://github.com/joaquim-lucas)
 - [KAUAN HENRIQUE CARVALHO VALADARES](https://github.com/Epaminondaslage/Trabalhos-Alunos-ELE1B/blob/main/alerta.md)
 - [LIDIA HELENA OLIVEIRA UGARTE](https://github.com/Epaminondaslage/Trabalhos-Alunos-ELE1B/blob/main/alerta.md)
 - [LORENA SILVA DE ALMEIDA](https://github.com/Epaminondaslage/Trabalhos-Alunos-ELE1B/blob/main/alerta.md)
