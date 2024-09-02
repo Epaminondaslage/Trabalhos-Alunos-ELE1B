@@ -40,6 +40,7 @@ Caso tenha dúvidas ou precise de ajuda, entre em contato com o [Epaminondas Lag
 - [DAVI ALVARENGA SGUISATO](https://github.com/Epaminondaslage/Trabalhos-Alunos-ELE1B/blob/main/alerta.md)
 - [ESTÊVÃO LOBENWEIN ASSUNÇÃO](https://github.com/Epaminondaslage/Trabalhos-Alunos-ELE1B/blob/main/alerta.md)
 - [ESTHER FAGUNDES OLIVEIRA](https://github.com/Esther342/)
+- [Fernanda Cristina Reis Baeta](https://github.com/fernanda-baeta/T)
 - [GABRIEL AZEVEDO MENDES DE SOUZA](https://github.com/GabrielAzevedoMS/)
 - [GABRIEL MUNIZ BAÊTA NEVES](https://github.com/Epaminondaslage/Trabalhos-Alunos-ELE1B/blob/main/alerta.md)
 - [GUSTAVO HENRIQUE MARTINS KOULOURES](https://github.com/GustavoHenriqueMartins/)
