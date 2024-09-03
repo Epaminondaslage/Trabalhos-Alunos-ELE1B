@@ -55,7 +55,7 @@ Caso tenha dúvidas ou precise de ajuda, entre em contato com o [Epaminondas Lag
 - [KAMILLE VIANA PEDROSO](https://github.com/kamillekk/)
 - [LUIS GUSTAVO DE CASTRO RIBAS](https://github.com/luisgribas/)
 - [LUIZ FELIPE BRITO MARTINS](https://github.com/LuizFelipeBMartins/)
-- [MANUELA PALHAS SILVA BRETTAS](https://github.com/Epaminondaslage/Trabalhos-Alunos-ELE1B/blob/main/alerta.md)
+- [MANUELA PALHAS SILVA BRETTAS](https://github.com/ManuelaBrettas/)
 - [MARCO ANTONIO GONCALVES](https://github.com/MarcoGonbr/)
 - [MARIA CLARA DOS SANTOS MACHADO](https://github.com/clarasantos08/)
 - [MARIA EDUARDA DA SILVA BARBOSA](https://github.com/Mariaeduardasbl/)
