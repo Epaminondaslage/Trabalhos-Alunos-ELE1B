@@ -34,7 +34,7 @@ Caso tenha dúvidas ou precise de ajuda, entre em contato com o [Epaminondas Lag
 
 - [ANTONIO VITOR PINHEIRO TEIXEIRA DA COSTA](https://github.com/Epaminondaslage/Trabalhos-Alunos-ELE1B/blob/main/alerta.md)
 - [ARTHUR SOUZA SILVA](https://github.com/THarthur05/)
-- [BERNARDO DARK SILVA MARTINS PEREIRA](https://github.com/Epaminondaslage/Trabalhos-Alunos-ELE1B/blob/main/alerta.md)
+- [BERNARDO DARK SILVA MARTINS PEREIRA](https://github.com/bernardodark-ele/)
 - [CECILIA MOREIRA FAGUNDES](https://github.com/cecimf08/cecimf08/)
 - [CLARISSE GUIMARAES DE MATOS](https://github.com/gclari17/)
 - [DAVI ALVARENGA SGUISATO](https://github.com/DaviAlSg/)
@@ -42,7 +42,7 @@ Caso tenha dúvidas ou precise de ajuda, entre em contato com o [Epaminondas Lag
 - [ESTHER FAGUNDES OLIVEIRA](https://github.com/Esther342/)
 - [FERNANDA CRISTINA REIS BAETA](https://github.com/fernanda-baeta/)
 - [GABRIEL AZEVEDO MENDES DE SOUZA](https://github.com/GabrielAzevedoMS/)
-- [GABRIEL MUNIZ BAÊTA NEVES](https://github.com/Epaminondaslage/Trabalhos-Alunos-ELE1B/blob/main/alerta.md)
+- [GABRIEL MUNIZ BAÊTA NEVES](https://github.com/BagrielMuniz/)
 - [GUSTAVO HENRIQUE MARTINS KOULOURES](https://github.com/GustavoHenriqueMartins/)
 - [GUSTAVO VIEIRA DE CARVALHO](https://github.com/GustavoVCarvalho/)
 - [ISAAC ANTONY MACEDO TORRES](https://github.com/Antonymacedo/)
