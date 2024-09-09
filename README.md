@@ -32,7 +32,7 @@ Caso tenha dúvidas ou precise de ajuda, entre em contato com o [Epaminondas Lag
 ## Alunos
 
 
-- [ANTONIO VITOR PINHEIRO TEIXEIRA DA COSTA](https://github.com/Epaminondaslage/Trabalhos-Alunos-ELE1B/blob/main/alerta.md)
+- [ANTONIO VITOR PINHEIRO TEIXEIRA DA COSTA](https://github.com/antonioxx1/)
 - [ARTHUR SOUZA SILVA](https://github.com/THarthur05/)
 - [BERNARDO DARK SILVA MARTINS PEREIRA](https://github.com/bernardodark-ele/)
 - [CECILIA MOREIRA FAGUNDES](https://github.com/cecimf08/cecimf08/)
